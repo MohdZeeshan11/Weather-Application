@@ -60,3 +60,9 @@ input{
 .text{
     font-size: 1.2rem;
 }
+@media(max-width:400px){
+    .weather-container{
+        margin-top: 150px;
+        margin-bottom: 10px;
+    }
+}
